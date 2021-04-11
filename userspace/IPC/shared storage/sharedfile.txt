@@ -1,0 +1,1 @@
+Shared storage data create, write and read with fcntl lock
